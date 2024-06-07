@@ -1,1 +1,1 @@
-README
+Got the format of the page from online, only the colour and button were from my own doing. the screen max thing im pretty sure is for if you shorten the window it follows along with it and shrinks the images on the page along with the size of the smaller window but not too sure. Need to do more practice but youtube videos helped me get this far in alot less time due to my vs crashing constantly. 
